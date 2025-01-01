@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178067364061",
+    "project_id": "stablehorses-705c6",
+    "storage_bucket": "stablehorses-705c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178067364061:android:1630b33497bdb1d6dce334",
+        "android_client_info": {
+          "package_name": "com.example.hours_stable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5D8CzZaHns2qkfkN6riFvvdA016hVwdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
